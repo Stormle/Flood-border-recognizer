@@ -706,7 +706,7 @@ notamatch:
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         OpenFileDialog1.Title = "Please Select a File"
-        OpenFileDialog1.InitialDirectory = My.Computer.FileSystem.SpecialDirectories.MyPictures + "\testpictures"
+        OpenFileDialog1.InitialDirectory = My.Computer.FileSystem.SpecialDirectories.MyPictures
         OpenFileDialog1.ShowDialog()
     End Sub
 
