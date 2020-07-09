@@ -1,0 +1,11 @@
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\bin\Debug\Color-Recognizer-Flood.exe.config
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\bin\Debug\Color-Recognizer-Flood.exe
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\bin\Debug\Color-Recognizer-Flood.pdb
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\bin\Debug\Color-Recognizer-Flood.xml
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\obj\Debug\Color-Recognizer-Flood.vbprojAssemblyReference.cache
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\obj\Debug\Color_Recognizer_Flood.Form1.resources
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\obj\Debug\Color_Recognizer_Flood.Resources.resources
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\obj\Debug\Color-Recognizer-Flood.vbproj.GenerateResource.cache
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\obj\Debug\Color-Recognizer-Flood.exe
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\obj\Debug\Color-Recognizer-Flood.xml
+C:\Users\blackbox\source\repos\AutoPointer\Color-Recognizer-Flood\Color-Recognizer-Flood\obj\Debug\Color-Recognizer-Flood.pdb
